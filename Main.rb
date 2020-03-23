@@ -28,7 +28,7 @@ bot.message(with_text: 'Ping!') do |event|
 end
 
 bot.message(with_text: 'Tonton!') do |event|
-  r = rand(1..10).to_s
+  r = rand(1..tonton["0"].to_i).to_s
   event.respond tonton[r]
 end
 bot.message(with_text: 'Meme!') do |event|

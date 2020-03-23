@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77d0d74b-1b73-40a7-b2e1-2cf5f9cf7b39" name="Default Changelist" comment="" />
+    <list default="true" id="77d0d74b-1b73-40a7-b2e1-2cf5f9cf7b39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Main.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tonton.json" beforeDir="false" afterPath="$PROJECT_DIR$/tonton.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZOLCN6OF2Wd1OV3lyp7iFSvFbD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,9 +34,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Main.rb" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Adam" type="RubyRunConfigurationType" factoryName="Ruby">
@@ -62,6 +72,8 @@
       <workItem from="1584792999040" duration="8479000" />
       <workItem from="1584913025688" duration="3655000" />
       <workItem from="1584917196897" duration="2567000" />
+      <workItem from="1584970128911" duration="521000" />
+      <workItem from="1584970780445" duration="5566000" />
     </task>
     <servers />
   </component>
@@ -77,28 +89,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584705178719" />
-    <state width="1342" height="174" key="GridCell.Tab.0.bottom" timestamp="1584919766618">
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom" timestamp="1584983804200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584919766618" />
-    <state width="1342" height="174" key="GridCell.Tab.0.center" timestamp="1584919766617">
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584983804200" />
+    <state width="1493" height="137" key="GridCell.Tab.0.center" timestamp="1584983804200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584919766617" />
-    <state width="1342" height="174" key="GridCell.Tab.0.left" timestamp="1584919766617">
+    <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584983804200" />
+    <state width="1493" height="137" key="GridCell.Tab.0.left" timestamp="1584983804200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584919766617" />
-    <state width="1342" height="174" key="GridCell.Tab.0.right" timestamp="1584919766617">
+    <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584983804200" />
+    <state width="1493" height="137" key="GridCell.Tab.0.right" timestamp="1584983804200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584919766617" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1584916683700">
+    <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584983804200" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584970183571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584916683700" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584970183571" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiniAdam@Adam.rcov" NAME="Adam Coverage Results" MODIFIED="1584983804169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="adam" />
     <SUITE FILE_PATH="coverage/adam@Adam.rcov" NAME="Adam Coverage Results" MODIFIED="1584918906584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="adam" />
   </component>
 </project>
